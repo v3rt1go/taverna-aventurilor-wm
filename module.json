@@ -1,7 +1,7 @@
 {
   "id": "taverna-aventurile-wm",
   "title": "Taverna Aventurile WM",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/v3rt1go/taverna-aventurilor-wm",
   "manifest": "https://raw.githubusercontent.com/v3rt1go/taverna-aventurilor-wm/main/module.json",
   "download": "https://github.com/v3rt1go/taverna-aventurilor-wm/archive/refs/heads/main.zip",
