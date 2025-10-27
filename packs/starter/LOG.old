@@ -1,7 +1,16 @@
-2025/10/21-21:04:09.220 26f4 Recovering log #69
-2025/10/21-21:04:09.267 26f4 Delete type=0 #69
-2025/10/21-21:04:09.268 26f4 Delete type=3 #67
-2025/10/21-21:37:28.753 2754 Level-0 table #74: started
-2025/10/21-21:37:28.753 2754 Level-0 table #74: 0 bytes OK
-2025/10/21-21:37:28.770 2754 Delete type=0 #72
-2025/10/21-21:37:28.771 2754 Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 72057594037927935 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at (end)
+2025/10/26-20:51:13.765 ddac Recovering log #85
+2025/10/26-20:51:13.768 ddac Level-0 table #87: started
+2025/10/26-20:51:13.815 ddac Level-0 table #87: 244720 bytes OK
+2025/10/26-20:51:13.841 ddac Delete type=0 #85
+2025/10/26-20:51:13.841 ddac Delete type=3 #84
+2025/10/26-20:54:05.113 da3c Level-0 table #90: started
+2025/10/26-20:54:05.113 da3c Level-0 table #90: 0 bytes OK
+2025/10/26-20:54:05.146 da3c Delete type=0 #88
+2025/10/26-20:54:05.146 da3c Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 72057594037927935 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at '!adventures!8SAGYNumXbKIEWhK' @ 14 : 1
+2025/10/26-20:54:05.146 da3c Compacting 1@0 + 1@1 files
+2025/10/26-20:54:05.187 da3c Generated table #91@0: 2 keys, 244817 bytes
+2025/10/26-20:54:05.196 da3c Compacted 1@0 + 1@1 files => 244817 bytes
+2025/10/26-20:54:05.230 da3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/26-20:54:05.230 da3c Delete type=2 #79
+2025/10/26-20:54:05.230 da3c Delete type=2 #87
+2025/10/26-20:54:05.232 da3c Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 14 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at (end)

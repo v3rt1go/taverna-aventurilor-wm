@@ -1,13 +1,13 @@
 {
   "id": "taverna-aventurile-wm",
   "title": "Taverna Aventurile WM",
-  "version": "1.0.1",
-  "url": "https://github.com/v3rt1go/taverna-aventurilor-wm",
+  "version": "1.1.0",
   "manifest": "https://raw.githubusercontent.com/v3rt1go/taverna-aventurilor-wm/main/module.json",
   "download": "https://github.com/v3rt1go/taverna-aventurilor-wm/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "13.350",
+    "maximum": "14"
   },
   "authors": [
     {
@@ -16,6 +16,16 @@
       "flags": {}
     }
   ],
+    "media": [
+    {
+      "type": "setup",
+      "caption": "D&Demetrius",
+      "thumbnail": "modules/taverna-aventurile-wm/assets/banners/thumb.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+    "esmodules": ["index.js"],
   "flags": {
     "canUpload": true
   },
@@ -24,6 +34,7 @@
       "name": "starter",
       "label": "Starter",
       "path": "packs/starter",
+      "banner": "modules/taverna-aventurile-wm/assets/banners/banner.webp",
       "type": "Adventure",
       "system": "dnd5e",
       "ownership": {
@@ -41,5 +52,8 @@
       }
     ]
   },
+  "url": "https://www.taverna-aventurilor.ro/",
   "description": ""
+
 }
+

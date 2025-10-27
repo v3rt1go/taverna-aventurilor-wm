@@ -1,14 +1,14 @@
-2025/10/21-21:37:37.569 27b8 Recovering log #73
-2025/10/21-21:37:37.623 27b8 Delete type=0 #73
-2025/10/21-21:37:37.625 27b8 Delete type=3 #71
-2025/10/21-21:41:35.289 2754 Level-0 table #78: started
-2025/10/21-21:41:35.633 2754 Level-0 table #78: 974655 bytes OK
-2025/10/21-21:41:35.831 2754 Delete type=0 #76
-2025/10/21-21:41:35.832 2754 Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 72057594037927935 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at '!adventures!8SAGYNumXbKIEWhK' @ 10 : 1
-2025/10/21-21:41:35.832 2754 Compacting 1@0 + 1@1 files
-2025/10/21-21:41:36.086 2754 Generated table #79@0: 2 keys, 244045 bytes
-2025/10/21-21:41:36.086 2754 Compacted 1@0 + 1@1 files => 244045 bytes
-2025/10/21-21:41:36.296 2754 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/10/21-21:41:36.300 2754 Delete type=2 #70
-2025/10/21-21:41:36.300 2754 Delete type=2 #78
-2025/10/21-21:41:36.300 2754 Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 10 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at (end)
+2025/10/26-20:57:52.912 ddac Recovering log #89
+2025/10/26-20:57:52.964 ddac Delete type=0 #89
+2025/10/26-20:57:52.964 ddac Delete type=3 #86
+2025/10/26-21:22:22.957 da3c Level-0 table #95: started
+2025/10/26-21:22:23.004 da3c Level-0 table #95: 487231 bytes OK
+2025/10/26-21:22:23.049 da3c Delete type=0 #93
+2025/10/26-21:22:23.093 da3c Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 72057594037927935 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at '!adventures!8SAGYNumXbKIEWhK' @ 15 : 1
+2025/10/26-21:22:23.093 da3c Compacting 1@0 + 1@1 files
+2025/10/26-21:22:23.336 da3c Generated table #96@0: 2 keys, 243913 bytes
+2025/10/26-21:22:23.336 da3c Compacted 1@0 + 1@1 files => 243913 bytes
+2025/10/26-21:22:23.360 da3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/26-21:22:23.361 da3c Delete type=2 #91
+2025/10/26-21:22:23.361 da3c Delete type=2 #95
+2025/10/26-21:22:23.362 da3c Manual compaction at level-0 from '!adventures!8SAGYNumXbKIEWhK' @ 15 : 1 .. '!adventures!8SAGYNumXbKIEWhK' @ 0 : 0; will stop at (end)
